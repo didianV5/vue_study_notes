@@ -6,7 +6,7 @@
     ],
     "pluginsConfig": {
       "editlink": {
-        "base": "https://github.com/didianV5/vue_study_notes/content",
+        "base": "https://github.com/didianV5/vue_study_notes/master/content",
         "label": "编辑本页"
       }
     }
