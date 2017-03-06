@@ -1,5 +1,13 @@
 {
-    "root":"./content"
+    "root":"./content",
     
-
+    "plugins": [
+      "editlink"
+    ],
+    "pluginsConfig": {
+      "editlink": {
+        "base": "https://github.com/didianV5/vue_study_notes/content",
+        "label": "编辑本页"
+      }
+    }
 }
